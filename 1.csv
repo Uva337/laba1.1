@@ -1,0 +1,19 @@
+┌─────────┬─────────┬───────┬───────────────────┬───────┐
+│ Country │ League  │ Club  │    PlayerNames    │  xG   │
+├─────────┼─────────┼───────┼───────────────────┼───────┤
+│ Spain   │ La Liga │ (BET) │ Juanmi Callejon   │ 6.62  │
+│ Spain   │ La Liga │ (BAR) │ Antoine Griezmann │ 11.86 │
+│ Spain   │ La Liga │ (ATL) │ Luis Suarez       │ 23.21 │
+│ Spain   │ La Liga │ (CAR) │ Ruben Castro      │ 14.06 │
+│ Spain   │ La Liga │ (VAL) │ Kevin Gameiro     │ 10.65 │
+│ Spain   │ La Liga │ (JUV) │ Cristiano Ronaldo │ 24.68 │
+│ Spain   │ La Liga │ (RMA) │ Karim Benzema     │ 13.25 │
+│ Spain   │ La Liga │ (PSG) │ Neymar            │ 13.33 │
+│ Spain   │ La Liga │ (CEL) │ Iago Aspas        │ 13.88 │
+│ Spain   │ La Liga │ (EIB) │ Sergi Enrich      │ 8.25  │
+│ Spain   │ La Liga │ None  │ Aduriz            │ 15.92 │
+│ Spain   │ La Liga │ (HUE) │ Sandro Ramlrez    │ 7.14  │
+│ Spain   │ La Liga │ (BAR) │ Lionel Messi      │ 26.65 │
+│ Spain   │ La Liga │ (VIL) │ Gerard Moreno     │ 8.49  │
+│ Spain   │ La Liga │ (JUV) │ Morata            │ 9.67  │
+└─────────┴─────────┴───────┴───────────────────┴───────┘
